@@ -223,3 +223,5 @@ An error occurred during verification.
   - Possible kinds:
     - `server` - Server-side errors during verification
 - **`err.status_code`: [`Option<u16>`]** - HTTP status code if available (for API errors)
+
+<!-- Auto-update: 2025-10-16T09:47:39.516885 -->
